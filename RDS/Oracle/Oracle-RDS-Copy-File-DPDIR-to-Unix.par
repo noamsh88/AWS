@@ -1,0 +1,5 @@
+#!/bin/ksh
+export TRG_DIR=`pwd`
+export ORACLE_HOME=
+export ORA_PASS=
+export S3_BUCKET_NAME=

@@ -1,0 +1,4 @@
+#!/bin/ksh
+export ORACLE_HOME=
+export ORA_PASS=
+export S3_BUCKET_NAME=
